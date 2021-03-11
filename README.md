@@ -3,4 +3,3 @@
  - Corregir los errores para que el c&oacute;digo compile con maven
  - Implementar los servicios REST 
    - BookEndpoint.java
-   
